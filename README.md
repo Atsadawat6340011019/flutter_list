@@ -2,6 +2,6 @@
 
 ## List Data
 
-<img src='assets/images/listdata.jpg' width='300px'>
+<img src='listdata.jpg' width='300px'>
 
 
